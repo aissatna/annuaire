@@ -1,5 +1,5 @@
 # Annuaire
-Rest api for a person directory management 
+Rest api (Java Spring Boot) for a person directory management 
 ---------
 Database
 --------
