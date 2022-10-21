@@ -27,10 +27,10 @@ Delete http://localhost:8070/annuaire/entree/1 --> delete person with id=1
 
 Put http://localhost:8070/annuaire/entree/1?name=john&surname=john&phone=1233&city=paris --> update person with id = 1
 
-Post http://localhost:8070/annuaire/entree --> add new person with data in the body request 
-{
+Post http://localhost:8070/annuaire/entree --> add new person with data in the body request  
+{  
  "name" : "Lee",   
 "surname":"Jet",  
 "phone":"123456789",   
-"city":"Pekin"   
+"city":"Pekin"     
 }
