@@ -1,12 +1,12 @@
 # Annuaire
- Développement d'une application de gestion d'annuaire
+Rest api for a person directory management 
 ---------
 Database
 --------
-SGBD ---postgresql
-Name --- annuaire
-username= annuaire
-password=admin
+SGBD = postgresql  
+database name = annuaire  
+username = annuaire  
+password = admin 
 
 You can change these settings in the application.properties file
 
