@@ -13,7 +13,7 @@ You can change these settings in the application.properties file
 ------------
 Info
 -----------
-At the start of the application three person instances are created, check PersonConfig file 
+The application start with three person instances, check PersonConfig file 
 
 -----------
 Requests
